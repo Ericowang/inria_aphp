@@ -26,10 +26,10 @@ Filtrage des doublons (avec typos/ valeurs manquantes/ échange de colonnes) par
 
 
 ### EDA.ipynb
--Présentation des données
--Données manquantes
--Nettoyage des données
--Résultats de tests pcr
+- Présentation des données
+- Données manquantes
+- Nettoyage des données
+- Résultats de tests pcr
 
 ### test_detect_duplicate.py
 
@@ -40,14 +40,14 @@ Tests sur différents cas de doublons avec pytest
 
 ### Librairies
 
--pandas
--sqlalchemy
--numpy
--matplotlib
--seaborn
--re
--sklearn
-_scipy
--sparse_dot_topn
--enchant
--pytest
+- pandas
+- sqlalchemy
+- numpy
+- matplotlib
+- seaborn
+- re
+- sklearn
+- scipy
+- sparse_dot_topn
+- enchant
+- pytest
