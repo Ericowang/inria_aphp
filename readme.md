@@ -21,11 +21,11 @@ Adapté d'un fuzzy matching.
 Une fonction 'correct_state' pour nettoyer les typos de 'state'
 
 3 fonctions pour la détection de doublons : ngrams, awesome_cossim_top, detect_duplicates
+
 Filtrage des doublons (avec typos/ valeurs manquantes/ échange de colonnes) par calcul de TF-IDF
 
 
 ### EDA.ipynb
-
 -Présentation des données
 -Données manquantes
 -Nettoyage des données
